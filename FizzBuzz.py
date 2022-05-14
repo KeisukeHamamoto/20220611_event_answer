@@ -5,7 +5,7 @@ for num in range(1, 101):
     # 15の倍数かどうか判断
     if(num%15 == 0):
         string = 'FizzBuzz'
-    # 5の倍数化どうか判断
+    # 5の倍数かどうか判断
     elif(num%5 == 0):
         string = 'Buzz'
     # 3の倍数かどうか判断
